@@ -1,0 +1,13 @@
+{
+	"name": "zoho_crm_telegram_bot_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "catalystplugindev@zappyworks.com",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"express": "^4.17.1",
+		"form-data": "^4.0.0",
+		"node-telegram-bot-api": "^0.53.0",
+		"zcatalyst-sdk-node": "^1.6.0"
+	}
+}

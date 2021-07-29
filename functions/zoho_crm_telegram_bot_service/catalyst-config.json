@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "zoho_crm_telegram_bot_service",
+		"stack": "node10",
+		"type": "basicio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}
